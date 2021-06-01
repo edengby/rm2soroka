@@ -13,6 +13,7 @@ html {
 	overflow-x: hidden;
 }
 body {
+	text-align: right;
 	overflow-x: hidden;
 	font-family: $font-sans-serif;
 	line-height: 1.8;
@@ -318,6 +319,7 @@ h5, .h5 {
 		}
 	}
 	.probootstrap-opening {
+	text-align: right;
 		padding: 2em 1em;
 		background: $secondary;
 		h2 {
